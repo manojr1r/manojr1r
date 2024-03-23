@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" alt="TestNG" width="35" height="40"/> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="git" width="35" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Robot-framework-logo.png/375px-Robot-framework-logo.png" alt="robot framework" width="35" height="40"/></p>
 
 
-<a href="http://www.github.com/manijr1r"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=manojr1r&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/manojr1r" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojr1r&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--
 
