@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a Docker
 - 🌱 I’m Interested to work on Web 3.0
-- 👯 I’m making the world better by PRs 
+<!--- 👯 I’m making the world better by PRs -->
 - 💬 Ask me about Technology
 - 📫 How to reach me: Drop me a message at manojreddy1793@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/manojreddya).
 - ⚡ Skill Set:
