@@ -23,7 +23,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Drop me a message at manojreddy1793@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/manojreddya).
 <h3 align="left">⚡ Skill Set:</h3>
 <p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <!---<img src="https://lh3.googleusercontent.com/d/1FIS_bue_0s1LUh73WEusdNhoC5cg2osN" alt="ManualTesting" width="70" height="50"/> --><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="35" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/861px-Selenium_Logo.png" alt="Selenium WebDriver" width="35" height="40"/> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" alt="maven" width="35" height="40"/>
-<img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" alt="TestNG" width="35" height="40"/> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="git" width="35" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Robot-framework-logo.png/375px-Robot-framework-logo.png" alt="robot framework" width="35" height="40"/></p>
+<img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" alt="TestNG" width="35" height="40"/> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="git" width="35" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Robot-framework-logo.png/375px-Robot-framework-logo.png" alt="robot framework" width="35" height="40"/>
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="GitHub" width="35" height="40"/>
+</p>
+
 
 
 <a href="https://github.com/manojr1r" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojr1r&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
