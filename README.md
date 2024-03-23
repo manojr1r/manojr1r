@@ -16,7 +16,7 @@ Hi, My name is Manoj Reddy A
 <img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" alt="TestNG" width="35" height="40"/>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="git" width="35" height="40"/>
 <img src="https://europe1.discourse-cdn.com/standard21/uploads/robotframework1/original/1X/702e61576ed30f6975fd86c11bd2a46402311868.png" alt="robot framework" width="35" height="40"/>
-<img src="https://img.icons8.com/nolan/512/github.png" alt="GitHub" width="35" height="40"/>
+<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="35" height="40"/>
 <img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" alt="postman" width="35" height="40"/>
 
 </p>
