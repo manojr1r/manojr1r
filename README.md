@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about Technology
 - 📫 How to reach me: Drop me a message at manojreddy1793@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/manojreddya).
 <h3 align="left">⚡ Skill Set:</h3>
-<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <!---<img src="https://lh3.googleusercontent.com/d/1FIS_bue_0s1LUh73WEusdNhoC5cg2osN" alt="ManualTesting" width="70" height="50"/> --><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="35" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/861px-Selenium_Logo.png" alt="Selenium WebDriver" width="35" height="40"/> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" alt="maven" width="35" height="40"/>
-<img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" alt="TestNG" width="35" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Robot-framework-logo.png/375px-Robot-framework-logo.png" alt="robot framework" width="35" height="40"/></p>
+<!---<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <!---<img src="https://lh3.googleusercontent.com/d/1FIS_bue_0s1LUh73WEusdNhoC5cg2osN" alt="ManualTesting" width="70" height="50"/> --><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="35" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/861px-Selenium_Logo.png" alt="Selenium WebDriver" width="35" height="40"/> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" alt="maven" width="35" height="40"/>
+<img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" alt="TestNG" width="35" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Robot-framework-logo.png/375px-Robot-framework-logo.png" alt="robot framework" width="35" height="40"/><!---</p>
 
 
 <!--
