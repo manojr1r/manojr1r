@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 👀 I'm currently actively looking for new opportunities in software testing roles.
 - 🛠️ Proficient in both manual and automation testing.
-- 💬 Passionate about exploring new technologies and ensuring thorough testing to prevent production issues.
+- 💬 Passionate about exploring emerging technologies and dedicated to conducting comprehensive testing to ensure high-quality software delivery.
 <!--- 👯 I’m making the world better by PRs -->
 - 📫 How to reach me: Drop me a message at manojreddy1793@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/manojreddya).
 <h3 align="left">⚡ Skill Set:</h3>
