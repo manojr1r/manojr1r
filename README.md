@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 <h4>A Software Test Enginner </h4>
 
--👀 I'm currently actively looking for new opportunities in software testing roles.
--🛠️ Proficient in both manual and automation testing.
+- 👀 I'm currently actively looking for new opportunities in software testing roles.
+- 🛠️ Proficient in both manual and automation testing.
 <!--- 👯 I’m making the world better by PRs -->
 - 💬 Ask me about Technology
 - 📫 How to reach me: Drop me a message at manojreddy1793@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/manojreddya).
