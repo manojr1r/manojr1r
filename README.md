@@ -6,7 +6,7 @@ Hi, My name is Manoj Reddy A
 -->
 <h4>A Software Test Enginner </h4>
 
-- 👀 I'm currently actively looking for new opportunities in software testing roles.
+- 👀 I'm currently actively looking for new opportunities in software testing role.
 - 🛠️ Proficient in both <strong>Manual Testing</strong> and **Automation Scripting**.
 - 💬 Passionate about exploring emerging technologies and dedicated to conducting comprehensive testing to ensure high-quality software delivery.
 <!--- 👯 I’m making the world better by PRs -->
